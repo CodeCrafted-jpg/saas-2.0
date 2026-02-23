@@ -1,0 +1,13 @@
+{
+    "teamId": "00000000-0000-0000-0000-000000000001",
+    "uploaderId": "00000000-0000-0000-0000-000000000001",
+    "source": "local-test",
+    "documents": [
+        {
+            "id": "test-doc-1",
+            "title": "Local Test Document",
+            "content": "This is a test document for the RAG ingestion pipeline using Ollama embeddings. It contains some company information about snacks and coffee. The team loves dark chocolate and espresso.",
+            "lang": "en"
+        }
+    ]
+}
